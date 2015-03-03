@@ -13,7 +13,7 @@ fuel->app->config->production->config.php（もしくは、fuel->app->config->co
 
 
 ## Logクラスを追加
-fuel->app->classes　に添付の[log.php](https://github.com/ikolabo/fuelphp-change-logfileextension/blob/master/config.php)をコピーします。
+fuel->app->classes　に添付の[log.php](https://github.com/ikolabo/fuelphp-change-logfileextension/blob/master/log.php)をコピーします。
 
 
 ## 追加したLogクラスを読み込む
